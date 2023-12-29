@@ -1,6 +1,10 @@
 [![MasterHead](https://contentstatic.techgig.com/photo/74771449/5-Statically-type-languages-every-programmer-should-explore.jpg)](https://mirnatul.io)
-###
 
+
+// Contact informations----------------------------------------------------------------------------------------------------------
+
+<br/>
+<br/>
 <div align="center">
   <a href="https://www.linkedin.com/in/mdmirnatulislam/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="24" alt="linkedin logo"  />
@@ -18,8 +22,12 @@
     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=flat" height="24" alt="whatsapp logo"  />
   </a>
 </div>
+<br/>
+<br/>
 
-###
+// ------------------------------------------------------------------------------------------------------------------------------------
+
+
 <h1 align="center">Hi 👋, I'm Md Mirnatul Islam</h1>
 <h3 align="center">A passionate MERN stack developer from Bangladesh</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
