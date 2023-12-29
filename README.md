@@ -1,7 +1,7 @@
 [![MasterHead](https://contentstatic.techgig.com/photo/74771449/5-Statically-type-languages-every-programmer-should-explore.jpg)](https://mirnatul.io)
 
 
-// Contact informations----------------------------------------------------------------------------------------------------------
+###
 
 <br/>
 <br/>
@@ -25,7 +25,7 @@
 <br/>
 <br/>
 
-// ------------------------------------------------------------------------------------------------------------------------------------
+###
 
 
 <h1 align="center">Hi 👋, I'm Md Mirnatul Islam</h1>
