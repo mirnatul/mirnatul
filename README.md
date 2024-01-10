@@ -40,7 +40,7 @@
 
 - 🔭 I’m currently working on **Movie Theate Ticket Booking Group Project**
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently learning **Next.js and Redux**
 
 - 👨‍💻 All of my projects are available at [https://mirnatul.netlify.app/](https://mirnatul.netlify.app/)
 
