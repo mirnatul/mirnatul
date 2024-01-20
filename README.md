@@ -28,8 +28,8 @@
 ###
 
 
-<h1 align="center">Hi 👋 there, I'm Md Mirnatul Islam</h1>
-<h3 align="center">A passionate MERN stack developer from Bangladesh.</h3>
+<h1 align="center">Hi 👋 there, I'm <b>Md Mirnatul Islam</b></h1>
+<h3 align="center">A passionate <b>MERN</b> stack developer from <b>Bangladesh</b>.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mirnatul&label=Profile%20views&color=0e75b6&style=flat" alt="mirnatul" /> </p>
