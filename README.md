@@ -28,7 +28,7 @@
 ###
 
 
-<h1 align="center">Hi 👋 there, I'm <b>Md Mirnatul Islam</b></h1>
+<h1 align="center">Hi there 👋, I'm <b>Md Mirnatul Islam</b></h1>
 <h3 align="center">A passionate <b>Full-Stack</b> web developer (<b>MERN</b>) from <b>Bangladesh</b>.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
