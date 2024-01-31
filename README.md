@@ -40,19 +40,19 @@
 
 - 🔭 I’m currently working on **Movie Theate Ticket Booking Group Project**
 
-- 🌱 I’m currently learning **Next.js and Redux**
+- 🌿 I’m currently learning **Next.js and Redux**
 
 - 👨‍💻 All of my projects are available at [https://mirnatul.netlify.app/](https://mirnatul.netlify.app/)
 
 - 💬 Ask me about **React.js, Node.js, Express.js, MongoDB, Redux**
 
-- 📫 How to reach me **www.mirnatul@gmail.com**
+- 📩 How to reach me **www.mirnatul@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/115ZrVTB4U_9CCmGFIG8-EqyBkX5CeZNv/view?usp=sharing](https://drive.google.com/file/d/115ZrVTB4U_9CCmGFIG8-EqyBkX5CeZNv/view?usp=sharing)
 
 - ⚡ Fun fact **I love to watch sci-fi, history movie/series**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">🔗Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/mirnatul 💻" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mirnatul 💻" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/mirnatul" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="mirnatul" height="30" width="40" /></a>
