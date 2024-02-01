@@ -38,7 +38,7 @@
 
 <p align="left"> <a href="https://twitter.com/mirnatul 💻" target="blank"><img src="https://img.shields.io/twitter/follow/mirnatul 💻?logo=twitter&style=for-the-badge" alt="mirnatul 💻" /></a> </p>
 
-- 🔭 I’m currently working on **Movie Theate Ticket Booking Group Project**
+- 🔭 I’m currently working on **A AirBNB like project**
 
 - 🌿 I’m currently learning **Next.js and Redux**
 
