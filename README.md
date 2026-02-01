@@ -46,7 +46,7 @@
 
 - 💬 Ask me about **React.js, Node.js, Express.js, MongoDB, Redux**
 
-- 📩 How to reach me **www.mirnatul@gmail.com**
+- 📩 How to reach me **mdmirnatul@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/115ZrVTB4U_9CCmGFIG8-EqyBkX5CeZNv/view?usp=sharing](https://drive.google.com/file/d/115ZrVTB4U_9CCmGFIG8-EqyBkX5CeZNv/view?usp=sharing)
 
