@@ -76,10 +76,11 @@
 ###
 
 <div align="center">
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mirnatul&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
-   <br>
-<!--   <img src="https://streak-stats.demolab.com?user=adilrion&locale=en&mode=weekly&theme=github_dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" /> <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=adilrion&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false&order=1" height="250" alt="stats graph"  /> -->
+  
+  <div width="50%" valign="top">
+    <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mirnatul&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Top Languages" />
+  </div>
+  
 </div>
 <br/>
 <div align="center">
