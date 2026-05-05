@@ -76,8 +76,8 @@
 ###
 
 <div align="center">
-  
-  <img src="[https://github-readme-stats.vercel.app/api/top-langs?username=mirnatul&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=github_dark&hide_border=false&order=2" height="220" alt="languages graph](https://camo.githubusercontent.com/be40b9a12cabc9bb6f69bfb1824a89046f1416e2d7ceee44abf29b67389fe738/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d617a696d686f737361696e747568696e266c61796f75743d636f6d70616374267468656d653d746f6b796f6e6967687426686964655f626f726465723d74727565266c616e67735f636f756e743d3130)" /> <br>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mirnatul&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+   <br>
 <!--   <img src="https://streak-stats.demolab.com?user=adilrion&locale=en&mode=weekly&theme=github_dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" /> <br>
   <img src="https://github-readme-stats.vercel.app/api?username=adilrion&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false&order=1" height="250" alt="stats graph"  /> -->
 </div>
