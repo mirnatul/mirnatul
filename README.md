@@ -77,7 +77,7 @@
 
 <div align="center">
   
-  <div width="50%" valign="top">
+  <div width="300" align="center">
     <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mirnatul&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Top Languages" />
   </div>
   
