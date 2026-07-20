@@ -19,13 +19,9 @@
 </p>
 
 <div>
-  Hello! I'm Md Mirnatul Islam, a final-year Computer Science and Engineering student at Dhaka International University and a passionate Full-Stack Developer. My programming journey started with a curiosity about how modern web applications are built, which led me to explore the MERN stack and beyond.
+  Hello! I'm Md Mirnatul Islam, a final-year Computer Science and Engineering student at Dhaka International University and a Full-Stack Developer. I build modern, scalable web applications using React, Next.js, Node.js, Express.js, TypeScript, PostgreSQL, Prisma, MongoDB, and Tailwind CSS.
 
-Today, I build full-stack applications using React, Next.js, Node.js, Express.js, MongoDB, PostgreSQL, Prisma, TypeScript, and Tailwind CSS. I enjoy creating responsive, scalable, and user-friendly web applications while writing clean and maintainable code.
-
-Beyond programming, I enjoy solving coding challenges, exploring new technologies, and continuously improving my development skills. I'm always eager to learn, take on new challenges, and grow as a software engineer.
-
-Feel free to explore my projects and download my resume to learn more about my work and experience.
+I'm passionate about learning new technologies, solving real-world problems, and writing clean, maintainable code. Feel free to explore my projects and download my resume to learn more about my work.
 </div>
 
 
@@ -98,6 +94,15 @@ Feel free to explore my projects and download my resume to learn more about my w
       <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,npm,netlify,vercel" />
     </td>
   </tr>
+  <tr>
+    <td><b>Problem Solving</b></td>
+    <td>
+      <p align="left">
+        <a href="https://codeforces.com/profile/mirnatul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="mirnatul" height="30" width="40" /></a>
+        <a href="https://www.leetcode.com/user7196el" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="user7196el" height="30" width="40" /></a>
+      </p>
+    </td>
+  </tr>
 </table>
 
 
@@ -108,29 +113,27 @@ Feel free to explore my projects and download my resume to learn more about my w
 
 
 
-
-
-
-
-
-###
-<h3 align="left">🔗Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/mirnatul 💻" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mirnatul 💻" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/mirnatul" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="mirnatul" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/www_mirnatul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="www_mirnatul" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/mirnatul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="mirnatul" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/user7196el" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="user7196el" height="30" width="40" /></a>
-</p>
-###
+<!-- Top Language -->
+## 📊 GitHub Analytics
 
 <div align="center">
-  
-  <div width="300" align="center">
-    <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mirnatul&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Top Languages" />
-  </div>
-  
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mirnatul&theme=github_dark" width="70%" />
+
+<br><br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mirnatul&theme=github_dark" width="34%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mirnatul&theme=github_dark&utcOffset=6" width="34%" />
+
+<br><br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mirnatul&theme=github_dark" width="34%" />
+
 </div>
+
+
+
+
 <br/>
 <div align="center">
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mirnatul&" alt="mirnatul" /></p>
