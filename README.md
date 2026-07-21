@@ -9,7 +9,7 @@
 <h1>
   Md Mirnatul Islam
 </h1>
-<p>A passionate <b>Full-Stack</b> web developer (<b>MERN</b>) from <b>Bangladesh</b>.</p>
+<p>A passionate <b>Full-Stack</b> web developer from <b>Bangladesh</b>.</p>
 
 <p>
   <img
